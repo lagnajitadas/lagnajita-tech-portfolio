@@ -1,0 +1,13 @@
+AWS AMPLIFY DEPLOYMENT CHECKLIST
+
+[ ] Create a NEW GitHub repository for this challenge version.
+[ ] Upload the contents of this folder to the repository root.
+[ ] Confirm index.html is visible at the repository root.
+[ ] AWS Amplify > Host web app > GitHub.
+[ ] Select the new repository and branch.
+[ ] Deploy the static site (no build command required).
+[ ] Test the live URL on desktop and mobile.
+[ ] Test all 4 Superpower Discovery Machine capsules.
+[ ] Test project and certificate links.
+[ ] Capture screenshots for the AWS Builder Center project write-up.
+[ ] Add the live URL, GitHub URL, AWS services, screenshots and lessons learned to Your Project.
